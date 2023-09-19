@@ -1,0 +1,36 @@
+section{
+    background-image: url(img/fundofilmes.webp);
+}
+#p1{
+    color: white;
+    font-family: 'Coming Soon', cursive;
+}
+#titulo{
+    font-family: 'Caesar Dressing', cursive;
+    color: #68409c;
+    text-align: center;
+}
+.header{
+    background-color: rgba(0, 0, 0, 0);
+}
+.imagem-redimensionada{
+    max-width: 200px; 
+    height: auto; 
+    margin: 20px;
+}
+h4, h1{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+nav{
+    background-color: rgb(94, 66, 130, 0.5);
+    margin-left: 20px;
+}
+/* Seletor para as divs que você deseja alinhar lado a lado */
+.div-ao-lado {
+    display: inline-block;
+    vertical-align: top; /* Isso alinha as divs verticalmente ao topo */
+    margin-right: 10px; /* Isso cria um espaço entre as divs (ajuste conforme necessário) */
+}
+

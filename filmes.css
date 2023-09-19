@@ -1,0 +1,22 @@
+#titulo{
+    font-family: 'Caesar Dressing', cursive;
+    color: #68409c;
+    text-align: center;
+}
+section{
+    background-image: url(img/fundofilmes.webp);
+}
+h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+h4{
+    color: #36283b;
+    font-size: 20px;
+    font-family: 'Caesar Dressing', cursive;
+}
+nav{
+    background-color: rgb(94, 66, 130, 0.7);
+    margin-left: 20px;
+}
